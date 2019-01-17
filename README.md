@@ -39,7 +39,7 @@ Basic and easy way to deploy your files do AWS and configure S3, Cognito, Cloud 
   npm install
 
 # enable and configure aws hosting (s3 + cloud front) and analytics (pinpoint)
-  npm install -g awsmobile
+  npm install -g awsmobile-cli
 
 # configure awsmobile creating super user, see how in references links
   awsmobile configure
